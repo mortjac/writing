@@ -69,6 +69,9 @@ http://blogs.scientificamerican.com/a-blog-around-the-clock/2013/01/28/commentin
 
 **Unorganized Notes**
 
+* About new tools.
+
+To get prose.io and Jekyll and Github pages installed was a major hurdle on Maverics. There was some compability issues between XCode 5.1 and ruby that took hours to solve.[Github Pages, Jekyll, and Mavericks, Oh My!](http://michaeljdeeb.com/blog/github-pages-jekyll-mavericks/) however, solved it.
 
 * Comments rarely, if ever directly lead to a better final product. 
 	* Critique/Feedback is invaluable and comments can provide insight into general sentiment. 
