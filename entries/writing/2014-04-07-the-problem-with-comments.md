@@ -1,7 +1,8 @@
 ---
 title: The Problem With Comments
-date: 2014-04-08
+date: {}
 status: draft
+published: true
 ---
 
 **Note:** This post is still a draft. Expect typos, grammatical errors and general stupidity.
@@ -48,6 +49,10 @@ Many blogs create Facebook pages for their blog and publish their posts there. I
 
 The online written word is the most accessible form of media for consumers to contribute to. There's a clear opportunity in this space, the tools just do not yet exist. Writing on Github is my attempt to prototype this concept on the closest tool I could find. But clearly, this approach is a square-peg-in-a-round-hole hack.
 
+### prose.io
+
+I'm just sitting and writing in prose.io using my browser. Here I'm able to write directly in Markdown and save it. 
+
 ---
 
 ## Make this entry better
@@ -89,5 +94,3 @@ http://blogs.scientificamerican.com/a-blog-around-the-clock/2013/01/28/commentin
 	* Have a problem with a post? Make is better.
 	* Let's have conversations result in meaningful results.
 	* Think you can do it better? Fork it and prove it
-
-
